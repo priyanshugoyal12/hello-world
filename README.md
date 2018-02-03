@@ -1,2 +1,2 @@
 # hello-world
-hey i am knew to it.
+hey i am new to it.
